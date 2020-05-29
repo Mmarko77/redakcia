@@ -5,3 +5,7 @@ Datum: 29.05.2020
 Je dôležité aby mal trojuholník tri srany?
 Nemohol by mať iba jednu alebo dve ?
 Všetko sa dozvieme v tomto článku.
+----
+Prvi vytváraní trojuholníka
+je naozaj veľmi dôležité
+použiť tri strany.
