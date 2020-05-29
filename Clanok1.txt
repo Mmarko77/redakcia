@@ -5,3 +5,7 @@ Datum: 29.05.2020
 V tomto článku sa 
 dozviete, kto vytvoril
 pytagorovu vetu.
+----
+Niekto by povedal, že to bol Igor
+z Vyšnej Myšle, no pravdou je, že to bol
+Jozef z Petržalky.
