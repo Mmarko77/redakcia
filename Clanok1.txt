@@ -2,10 +2,12 @@ Autor: Marko Mariňák
 Nazov: Prečo má trojuholník tri strany ?
 Datum: 29.05.2020
 ----
+<<<<<<< HEAD
 V tomto článku sa 
 dozviete, kto vytvoril
 pytagorovu vetu.
 ----
-Niekto by povedal, že to bol Igor
-z Vyšnej Myšle, no pravdou je, že to bol
-Jozef z Petržalky.
+Prvi vytváraní trojuholníka
+je naozaj veľmi dôležité
+použiť tri strany.
+>>>>>>> origin/develop_clanku1_ver2
