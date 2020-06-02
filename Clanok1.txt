@@ -2,9 +2,9 @@ Autor: Marko Mariňák
 Nazov: Prečo má trojuholník tri strany ?
 Datum: 29.05.2020
 ----
-V tomto článku sa 
-dozviete, prečo sa trojuholník
-musí skladať z troch strán.
+V tomto článku zistíme 
+prečo sa trojuholník
+nesmie skladať z dvoch strán.
 ----
 Prvi vytváraní trojuholníka
 je naozaj veľmi dôležité
