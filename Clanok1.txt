@@ -10,6 +10,6 @@ Prvi vytváraní trojuholníka
 je naozaj veľmi dôležité
 použiť tri strany.
 ----
-Bez použitia
-troch strán, by sa
-trojuholník nevytvoril.
+Trojuholník sa musí
+skladať z troch
+strán.
