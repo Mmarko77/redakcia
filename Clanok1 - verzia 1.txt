@@ -2,10 +2,14 @@ Autor: Marko Mariňák
 Nazov: Prečo má trojuholník tri strany ?
 Datum: 29.05.2020
 ----
-V tomto článku sa 
-dozviete, kto vytvoril
-pytagorovu vetu.
+V tomto článku zistíme 
+prečo sa trojuholník
+nesmie skladať z dvoch strán.
 ----
 Prvi vytváraní trojuholníka
 je naozaj veľmi dôležité
 použiť tri strany.
+----
+Bez použitia
+troch strán, by sa
+trojuholník nevytvoril.
