@@ -2,7 +2,6 @@ Autor: Marko Mariňák
 Nazov: Prečo má trojuholník tri strany ?
 Datum: 29.05.2020
 ----
-<<<<<<< HEAD
 V tomto článku sa 
 dozviete, kto vytvoril
 pytagorovu vetu.
@@ -10,4 +9,7 @@ pytagorovu vetu.
 Prvi vytváraní trojuholníka
 je naozaj veľmi dôležité
 použiť tri strany.
->>>>>>> origin/develop_clanku1_ver2
+----
+Mily citatelia 
+na toto sme bohuzial 
+nemali cas.
